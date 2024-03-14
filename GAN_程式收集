@@ -1,0 +1,30 @@
+含資料的GAN程式教學--使用keras
+Building a Generative Adversarial Network using Keras
+https://www.geeksforgeeks.org/building-a-generative-adversarial-network-using-keras/
+
+
+各種使用Keras 寫的 GAN
+https://github.com/cckuailong/KerGaNs
+
+
+
+GAN Defect
+
+GAN缺陷 (正樣本)
+https://github.com/mingren8888/GAN-defect
+
+
+Defect-aware Feature Manipulation GAN
+https://github.com/Ldhlwh/DFMGAN
+
+
+Defect-GAN (pytorch)
+
+
+
+
+Surface-Defect-Image-Classification-with-Convolutional-Neural-Network
+https://github.com/pohwa065/Surface-Defect-Image-Classification-with-Convolutional-Neural-Network
+
+
+GAN系列——EGBAD原理及缺陷检测实战原创
