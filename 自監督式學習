@@ -1,0 +1,48 @@
+Meta 的 腦訊號生成圖片技術：  Meta’s AI Reconstructs Visual Imagery from Brain Activity
+介紹網頁：https://medium.com/@davidcomfort/metas-ai-reconstructs-visual-imagery-from-brain-activity-4c99e6cdfd3c
+介紹網頁：https://ai.meta.com/blog/brain-ai-image-decoding-meg-magnetoencephalography/?utm_source=twitter&utm_medium=organic_social&utm_campaign=research&utm_content=card   有演示圖
+
+上述的論文網頁版  : Brain decoding: toward real-time reconstruction of visual perception
+https://arxiv.org/html/2310.19812v3
+https://arxiv.org/pdf/2104.14294.pdf
+使用的模型：DINO
+第一代：Emerging Properties in Self-Supervised Vision Transformers    https://arxiv.org/pdf/2104.14294.pdf
+第二代：DINOv2: Learning Robust Visual Features without Supervision   https://arxiv.org/html/2304.07193v2
+
+上述Github https://github.com/facebookresearch/dinov2
+
+上述於醫學影像應用 RAD-DINO: Exploring Scalable Medical Image Encoders Beyond Text Supervision https://arxiv.org/abs/2401.10815
+
+全网最强 DINOv2 论文解读 https://zhuanlan.zhihu.com/p/623274167
+
+上述使用的技術模型叫DINOv2 ，demo/測試網站 https://dinov2.metademolab.com/
+上述的預訓練模型lvd142m下載 https://huggingface.co/timm/vit_base_patch14_dinov2.lvd142m
+
+
+#相關知識 
+(重要!)自監督式學習 Self-Supervised Learning for Computer Vision 之概述
+https://medium.com/ching-i/%E8%87%AA%E7%9B%A3%E7%9D%A3%E5%BC%8F%E5%AD%B8%E7%BF%92-self-supervised-learning-for-computer-vision-%E4%B9%8B%E6%A6%82%E8%BF%B0-b0decf770abf
+另一個 ChatGPT驚艷眾人的背後 : NLP運用深度學習的幾個重要發展
+https://medium.com/ai-academy-taiwan/chatgpt%E9%A9%9A%E8%89%B7%E7%9C%BE%E4%BA%BA%E7%9A%84%E8%83%8C%E5%BE%8C-nlp%E9%81%8B%E7%94%A8%E6%B7%B1%E5%BA%A6%E5%AD%B8%E7%BF%92%E7%9A%84%E5%B9%BE%E5%80%8B%E9%87%8D%E8%A6%81%E7%99%BC%E5%B1%95-f73dd1154e6e
+Transformer的两大应用对比：GPT和BERT的差别（易懂版）-2更
+https://www.zhihu.com/tardis/zm/art/607605399?source_id=1003
+自监督Self-supervied 学习笔记
+https://blog.csdn.net/weixin_45928096/article/details/127058509
+Chat-GPT 背後的關鍵技術：預訓練 (Pre-train) -- 李宏毅簡報  https://speech.ee.ntu.edu.tw/~hylee/ml/ml2023-course-data/ChatGPT_SSL_(v4).pdf
+
+BERT -- Self-Supervised Learning -- 李宏毅簡報
+https://speech.ee.ntu.edu.tw/~hylee/ml/ml2021-course-data/bert_v8.pdf
+
+李宏毅 youtube 網站  https://www.youtube.com/@HungyiLeeNTU/featured   
+
+
+
+
+
+
+
+
+
+
+
+
